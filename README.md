@@ -1,1 +1,1 @@
-# Gamgam
+# Javascript and MySQL WebDev Project
