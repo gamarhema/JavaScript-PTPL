@@ -1,1 +1,2 @@
-# Javascript and MySQL WebDev Project
+# node-mysql
+ 
